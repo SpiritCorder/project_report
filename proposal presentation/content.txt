@@ -1,0 +1,40 @@
+REALTIME TEAM COLLABORATION PLATFORM FOR SOFTWARE PROJECT MANAGEMENT
+
+1. Introduction
+
+The Real-time Team Collaboration Platform For Software Project Management is an application where
+users can manage their project's tasks and communicate with other users in real-time. So the application
+utilizes the websocket protocol for real-time interactions,  enhancing collaborative work experiences. Simultaneously, it leverages
+HTTP(Hyper Text Transfer Protocol) for the tasks that don't need real-time communication, creating a hybrid architecture that optimizes performance.
+In addition to its real-time capabilities, the application harnesses the power of Machine Learning to recommend the most suitable projects to individual users. 
+These recommendations are based on user profiles and explicit familiarity ratings, enhancing the project selection process.
+
+
+3. Related Work
+
+So here since I am using websocket protocol for real-time capabilities, I have refered some research papers
+ about websockets.
+
+"Research of Web Real-Time Communication Based on Web Socket" this research paper talks about how to adopt websocket
+ protocol for real-time communication. It also discusses the benefits of using websocket protocol. Since websocket is
+ a modern protocol, before websocket was introduced the real-time communication in web applications was acieved through a
+ technique called polling. And there are two types of polling techniques called as 'Long Polling' and 'Short Polling'.
+ But these approaches were less efficient and more complex.
+
+Since the application also uses Machine Learning capabilities for suggesting suitable projects for users, I have refered some research
+ papers about that as well.
+
+"A framework for collaborative filtering recommender systems" this research papers provides an overview about collaborative recommendations.
+ It describes what is collaborative filtering and its requirements.
+
+"A content-based recommender system for computer science publications" this research paper explains about a research that has been done
+ using content based recommendation method. In this research they have introduced a content based recommender system that recommends journels and
+ Conferences for authors who are trying to submit their computer science publicatons. By refering this paper I have learnt some important terminologies
+ about content based filtering and how it works. So according to the paper they have used "Chi-Square Feature Selection" and "Softmax Regression (Multinomial Logistic Regression)"
+ as a machine learning classification algorithm.
+
+
+
+
+
+

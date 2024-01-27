@@ -1,0 +1,9 @@
+A Real-Time Team Collaboration Platform with Web Sockets and machine learning
+
+
+
+https://www.smartsheet.com/content/project-description 
+
+
+
+https://www.kaggle.com/datasets/gowrishankarp/newspaper-text-summarization-cnn-dailymail https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews https://www.kaggle.com/datasets/shashichander009/inshorts-news-data https://www.kaggle.com/datasets/sunnysai12345/news-summary

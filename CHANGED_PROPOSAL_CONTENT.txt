@@ -1,0 +1,31 @@
+1. System requirenments gathering
+	Gather the application requirements according to the system needs.
+2. Study about websockets and its behaviour
+	A study on websockets must be performed since it is a stateful protocol unlike http (since http is a stateless protocol).
+3. Design the server side architecture
+	According to the needs a proper server side architecture must be designed.
+4. Design application logic and Data Models
+	Identifying the logical flow of features and functinalities of the whole application.
+4. Interface design
+	Design the user interface.
+5. System Implementation
+	Start developing the system from the ground up.
+6. System testing
+	Test the system continuously.
+
+
+METHODOLOGY
+So to achieve this a new system will be developed from scratch. Before implement the system a study on websockets must be performed. Since websockets are stateful (Not like regular HTTP protocol which is stateless), on the server side it is difficult to handle websockets. So we should identify a proper architecture to manage websockets on the server so that it will benefit in various circumstances such as scaling. Once a mechanism is found to handle websockets on the server the server implementation can be started. Once the websocket server is established then according to the application logic data models should be designed. Then the User Interface should be designed. And finally the system can be implemented. Along the way sometimes the application logic will change according to some requirement changes.
+
+ 
+REFERENCE
+•	[5] M. Nasir, "A Survey of Software Estimation Techniques and Project Planning Practices," in Seventh ACIS International Conference on Software Engineering, Artificial Intelligence, Networking, and Parallel/Distributed Computing (SNPD'06), Las Vegas, NV, USA, June 19-20, 2006. DOI: 10.1109/SNPD-SAWN.2006.11.
+
+
+
+
+Q. Liu and X. Sun in [1] explored the benefits of adopting Web Socket technology for enhanced web real-time communication.
+[6] S. Parida and P. Motlicek, "Abstract Text Summarization: A Low Resource Challenge," in Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP), Hong Kong, China, November 2019, pp. 5994-5998. DOI: 10.18653/v1/D19-1616.
+
+
+•	[3] S. Parida and P. Motlicek, "Abstract Text Summarization: A Low Resource Challenge," in Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP), Hong Kong, China, November 2019, pp. 5994-5998. DOI: 10.18653/v1/D19-1616.

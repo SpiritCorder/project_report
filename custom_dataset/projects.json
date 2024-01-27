@@ -1,0 +1,315 @@
+[
+  {
+      "id": 1,
+      "title": "E-commerce Website Enhancement",
+      "domains": "Retail, Web Development",
+      "skills": "HTML, CSS, JavaScript, PHP, MySQL, UX/UI Design, Payment Gateway Integration"
+  },
+  {
+      "id": 2,
+      "title": "Inventory Management System",
+      "domains": "Retail",
+      "skills": "Java, Python, Database Management (SQL), Web Development, Inventory Control Knowledge"
+  },
+  {
+    "id": 3,
+      "title": "Customer Loyalty Program Application",
+      "domains": "Retail",
+      "skills": "Mobile App Development (iOS/Android), Backend Development, User Authentication, CRM"
+  },
+  {
+    "id": 4,
+      "title": "Online Order Tracking System",
+      "domains": "Retail, Web Development",
+      "skills": "React, Node.js, MongoDB, Real-time Data Updates, Geolocation Services"
+  },
+  {
+    "id": 5,
+      "title": "Retail Analytics Dashboard",
+      "domains": "Retail, Web Development",
+      "skills": "Data Analytics, Data Visualization, Python, Power BI/Tableau, Data Warehousing"
+  },
+  {
+    "id": 6,
+      "title": "Omnichannel Retail Platform",
+      "domains": "Retail,  Web Development",
+      "skills": "Microservices Architecture, Docker/Kubernetes, API Development, Cloud Computing (AWS/Azure)"
+  },
+  {
+    "id": 7,
+      "title": "Virtual Try-On for Fashion Retail",
+      "domains": "Retail, Web Development",
+      "skills": "Augmented Reality (AR), Computer Vision, Mobile App Development, 3D Modeling"
+  },
+  {
+    "id": 8,
+      "title": "Price Comparison Website",
+      "domains": "Retail, Web Development",
+      "skills": "Web Scraping, Data Mining, Machine Learning (for pricing algorithms), Frontend Development"
+  },
+  {
+    "id": 9,
+      "title": "Personalized Product Recommendations",
+      "domains": "Retail, Web Development",
+      "skills": "Machine Learning (Recommendation Algorithms), Python, Data Analysis"
+  },
+  {
+    "id": 10,
+      "title": "Point of Sale (POS) System",
+      "domains": "Retail, Web Development",
+      "skills": "Java, C#, POS Hardware Integration, Payment Processing Integration"
+  },
+  {
+    "id": 11,
+      "title": "Click and Collect Service",
+      "domains": "Retail, Web Development",
+      "skills": "Mobile App Development, Geolocation Services, Backend Development, Inventory Management"
+  },
+  {
+    "id": 12,
+      "title": "Customer Feedback and Survey Platform",
+      "domains": "Retail, Web Development",
+      "skills": "PHP, MySQL, Survey Design, Feedback Analysis, User Experience Design"
+  },
+  {
+    "id": 13,
+      "title": "Retail Chatbot for Customer Support",
+      "domains": "Retail, Web Development",
+      "skills": "Natural Language Processing (NLP), Chatbot Development, AI/ML, Customer Service Knowledge"
+  },
+  {
+    "id": 14,
+      "title": "Subscription Box Management System",
+      "domains": "Retail, Web Development",
+      "skills": "Subscription Billing, Subscription Management, Web Development"
+  },
+  {
+    "id": 15,
+      "title": "Retail Data Security and Compliance",
+      "domains": "Retail, Web Development",
+      "skills": "Cybersecurity, Compliance Regulations, Data Encryption, Security Auditing"
+  },
+  
+  {
+    "id": 16, 
+    "title": "Travel Booking Mobile App",
+    "domains": "Web Development, Mobile App Development, Travel",
+    "skills": "React Native, JavaScript, Firebase, API Integration, User Experience Design"
+  },
+  {
+    "id": 17,
+      "title": "Tourist Destination Website",
+      "domains": "Web Development, Travel",
+      "skills": "HTML, CSS, JavaScript, Content Management System (CMS), Geolocation Services"
+  },
+  {
+    "id": 18,
+      "title": "Travel Expense Tracker App",
+      "domains": "Mobile App Development, Travel",
+      "skills": "Flutter, Dart, SQLite Database, Expense Tracking Logic, Mobile UI Design"
+  },
+  {
+    "id": 19,
+      "title": "Web-Based Travel Itinerary Planner",
+      "domains": "Web Development, Travel",
+      "skills": "React, Node.js, MongoDB, Map APIs, Trip Planning Algorithms"
+  },
+  {
+    "id": 20,
+    "title": "Automated Essay Grading System",
+    "domains": "Education, Natural Language Processing, Web Development",
+    "skills": "Natural Language Processing (NLP), Machine Learning, Python, Text Analysis, Database Management"
+  },
+  {
+    "id": 21,
+      "title": "Personalized Language Learning App",
+      "domains": "Education, Natural Language Processing, Mobile App Development",
+      "skills": "Mobile App Development, NLP, Speech Recognition, User Profiling, Gamification"
+  },
+  {
+    "id": 22,
+      "title": "Plagiarism Detection Tool for Educational Institutions",
+      "domains": "Education, Natural Language Processing, Web Development",
+      "skills": "NLP, Text Comparison Algorithms, Web Development, User Authentication, Reporting"
+  },
+  {
+    "id": 23,
+      "title": "Automated Tutoring Chatbot",
+      "domains": "Education, Natural Language Processing, Web Development",
+      "skills": "Chatbot Development, NLP, User Interaction Design, Knowledge Base Creation, AI/ML"
+  },
+  {
+    "id": 24,
+      "title": "Language Translation and Learning Platform",
+      "domains": "Education, Natural Language Processing, Web Development",
+      "skills": "NLP, Machine Translation, Web Development, User Accounts and Progress Tracking, Multilingual Support"
+  },
+  {
+    "id": 25,
+    "title": "Personal Finance Management Mobile App",
+    "domains": "Finance, Mobile App Development, Natural Language Processing",
+    "skills": "Mobile App Development (iOS/Android), Natural Language Processing for Expense Categorization, Budgeting Algorithms"
+  },
+  {
+    "id": 26,
+      "title": "Stock Market Sentiment Analysis Dashboard",
+      "domains": "Finance, Natural Language Processing, Web Development",
+      "skills": "Data Scraping, Natural Language Processing for Sentiment Analysis, Data Visualization (Web-based)"
+  },
+  {
+    "id": 27,
+      "title": "E-commerce Price Comparison Mobile App",
+      "domains": "E-commerce, Mobile App Development, Natural Language Processing",
+      "skills": "Mobile App Development (iOS/Android), Web Scraping, Natural Language Processing for Product Description Analysis"
+  },
+  {
+    "id": 28,
+      "title": "Payment Fraud Detection System",
+      "domains": "Finance, Natural Language Processing, Web Development",
+      "skills": "Web Development, Machine Learning for Fraud Detection, Data Analysis, API Integration"
+  },
+  {
+    "id": 29,
+      "title": "Automated Financial News Aggregator",
+      "domains": "Finance, Natural Language Processing, Web Development",
+      "skills": "Web Scraping, Natural Language Processing for News Summarization, Frontend Development (Web-based)"
+  },
+  {
+    "id": 30,
+    "title": "Sentiment Analysis for Social Media",
+    "domains": "Natural Language Processing",
+    "skills": "Natural Language Processing, Machine Learning, Python, Text Classification, Data Collection and Cleaning"
+  },
+  {
+    "id": 31,
+    "title": "All-in-One Financial Management App",
+    "domains": "E-commerce|Finance|Natural Language Processing|Web Development|Mobile App Development",
+    "skills": "JavaScript|React|Node.js|Python|NLP|Mobile App Development|Financial Analysis"
+  },
+  {
+    "id": 32,
+    "title": "E-commerce Marketplace Platform",
+    "domains": "E-commerce|Web Development|Mobile App Development",
+    "skills": "PHP|React|Swift|Payment Gateway Integration|UX/UI Design"
+  },
+  {
+    "id": 33,
+    "title": "Finance Analytics Dashboard",
+    "domains": "Finance|Web Development",
+    "skills": "Python|Django|Data Visualization|Financial Modeling|SQL"
+  },
+  {
+    "id": 34,
+    "title": "Natural Language Processing Chatbot",
+    "domains": "Natural Language Processing|Web Development|Mobile App Development",
+    "skills": "Python|NLP|Chatbot Development|React Native|API Integration"
+  },
+  {
+    "id": 35,
+    "title": "E-commerce Recommendation Engine",
+    "domains": "E-commerce|Natural Language Processing|Web Development",
+    "skills": "Java|Spring Boot|NLP|Recommendation Systems|Frontend Development"
+  },
+  {
+    "id": 36,
+    "title": "Mobile Banking App",
+    "domains": "Finance|Mobile App Development",
+    "skills": "Swift|Android|Mobile Banking|Financial Transactions"
+  },
+  {
+    "id": 37,
+    "title": "Web-based Stock Portfolio Tracker",
+    "domains": "Finance|Web Development",
+    "skills": "JavaScript|React|Stock Market Data|Database Management"
+  },
+  {
+    "id": 38,
+    "title": "NLP Sentiment Analysis Tool",
+    "domains": "Natural Language Processing|Web Development",
+    "skills": "Python|NLP|React|Sentiment Analysis|Data Visualization"
+  },
+  {
+    "id": 39,
+    "title": "E-commerce Inventory Management System",
+    "domains": "E-commerce|Web Development",
+    "skills": "PHP|JavaScript|Inventory Management|Database Design"
+  },
+  {
+    "id": 40,
+    "title": "Finance News Aggregator App",
+    "domains": "Finance|Mobile App Development|Natural Language Processing",
+    "skills": "Python|React Native|NLP|API Integration|News Aggregation"
+  },
+  {
+    "id": 41,
+    "title": "Mobile Wallet and Payment App",
+    "domains": "Finance|Mobile App Development|Web Development",
+    "skills": "React Native|Node.js|Payment Processing|UI/UX Design"
+  },
+  {
+    "id": 42,
+    "title": "E-commerce Product Review Analyzer",
+    "domains": "E-commerce|Natural Language Processing|Web Development",
+    "skills": "Python|Django|NLP|Sentiment Analysis|Web Scraping"
+  },
+  {
+    "id": 43,
+    "title": "Stock Market Prediction Model",
+    "domains": "Finance|Natural Language Processing",
+    "skills": "Python|Machine Learning|Time Series Analysis|NLP|Data Visualization"
+  },
+  {
+    "id": 44,
+    "title": "Web-based Language Learning Platform",
+    "domains": "Web Development|Natural Language Processing",
+    "skills": "JavaScript|React|NLP|Language Learning Tools|User Engagement"
+  },
+  {
+    "id": 45,
+    "title": "Mobile App for Personal Finance Management",
+    "domains": "Finance|Mobile App Development|Web Development",
+    "skills": "Swift|React|Node.js|Financial Tracking|Budgeting"
+  },
+  {
+    "id": 46,
+    "title": "Travel Booking Website",
+    "domains": "Travel|Web Development",
+    "skills": "HTML|CSS|JavaScript|Node.js|Travel APIs|UI/UX Design"
+  },
+  {
+    "id": 47,
+    "title": "Financial Portfolio Tracker",
+    "domains": "Finance|Web Development",
+    "skills": "Python|Django|Financial Data Integration|Data Visualization"
+  },
+  {
+    "id": 48,
+    "title": "Travel Expense Management App",
+    "domains": "Travel|Finance|Mobile App Development",
+    "skills": "React Native|Node.js|Expense Tracking|Budgeting|Payment Integration"
+  },
+  {
+    "id": 49,
+    "title": "Interactive Educational App for Kids",
+    "domains": "Education|Mobile App Development",
+    "skills": "React Native|UI/UX Design|Educational Content|Game Development"
+  },
+  {
+    "id": 50,
+    "title": "E-Learning Platform for College Students",
+    "domains": "Education|Web Development|Mobile App Development",
+    "skills": "JavaScript|React|Node.js|Mobile App Development|Course Content Management"
+  },
+  {
+    "id": 51,
+    "title": "Mobile App for Language Learning",
+    "domains": "Education|Mobile App Development|Natural Language Processing",
+    "skills": "React Native|NLP|Language Learning|Quiz Generation"
+  },
+  {
+    "id": 52,
+    "title": "Educational Game for Math Practice",
+    "domains": "Education|Mobile App Development",
+    "skills": "Unity3D|C#|Game Design|Educational Content"
+  }
+]
